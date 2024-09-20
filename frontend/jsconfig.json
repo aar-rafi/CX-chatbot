@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["D:/internship/comx_chatbot/*"]
+    }
+  }
+}
