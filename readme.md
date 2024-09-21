@@ -37,7 +37,7 @@ Simple QA Chatbot interface powered by `deepset/roberta-base-squad2` and `haysta
 
 ### Technologies Used
 
-- React.js
+- React.js, Vite
 - Axios
 - TailwindCSS
 
