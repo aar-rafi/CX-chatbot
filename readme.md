@@ -12,8 +12,22 @@
 
 Simple QA Chatbot interface powered by `deepset/roberta-base-squad2` and `haystack` pipeline
 
-#### demo 🚀
-![Vite + React - Google Chrome 9_20_2024 11_49_25 AM](https://github.com/user-attachments/assets/42d4ee1a-7344-4a91-9422-923c6a2e1051)
+### Demo 🚀
+
+<details>
+  <summary>Demo Video ⭐ </summary>
+
+  [![CX-Bot](https://img.youtube.com/vi/XRpCdJn_FIE/0.jpg)](https://www.youtube.com/watch?v=XRpCdJn_FIE)
+
+</details>
+
+<details>
+  <summary>Demo images ⭐ </summary>
+  
+  ![Vite + React - Google Chrome 9_20_2024 11_49_25 AM](https://github.com/user-attachments/assets/42d4ee1a-7344-4a91-9422-923c6a2e1051)
+  ![image](https://github.com/user-attachments/assets/09c3431c-8ced-44fd-99d5-70448f9726df)
+
+</details>
 
 ## TODO List
 
